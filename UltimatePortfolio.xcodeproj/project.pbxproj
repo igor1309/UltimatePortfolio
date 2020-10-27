@@ -19,6 +19,7 @@
 		2AD752D525481246004A5F13 /* DataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD752D425481246004A5F13 /* DataController.swift */; };
 		2AD752D8254816C0004A5F13 /* EditItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD752D7254816C0004A5F13 /* EditItemView.swift */; };
 		2AD752DB25481790004A5F13 /* ItemRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD752DA25481790004A5F13 /* ItemRowView.swift */; };
+		2AD752DE254825EF004A5F13 /* Binding-OnChange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2AD752DD254825EF004A5F13 /* Binding-OnChange.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		2AD752D425481246004A5F13 /* DataController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataController.swift; sourceTree = "<group>"; };
 		2AD752D7254816C0004A5F13 /* EditItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditItemView.swift; sourceTree = "<group>"; };
 		2AD752DA25481790004A5F13 /* ItemRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRowView.swift; sourceTree = "<group>"; };
+		2AD752DD254825EF004A5F13 /* Binding-OnChange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Binding-OnChange.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				2AD752C625480188004A5F13 /* ProjectsView.swift */,
 				2AD752DA25481790004A5F13 /* ItemRowView.swift */,
 				2AD752D7254816C0004A5F13 /* EditItemView.swift */,
+				2AD752DD254825EF004A5F13 /* Binding-OnChange.swift */,
 				2AD752D425481246004A5F13 /* DataController.swift */,
 				2AD752C92548101D004A5F13 /* Main.xcdatamodeld */,
 				2AD752CD254810D4004A5F13 /* Project.swift */,
@@ -168,6 +171,7 @@
 				2AD752B42547FF21004A5F13 /* UltimatePortfolioApp.swift in Sources */,
 				2AD752DB25481790004A5F13 /* ItemRowView.swift in Sources */,
 				2AD752D2254811A2004A5F13 /* Item.swift in Sources */,
+				2AD752DE254825EF004A5F13 /* Binding-OnChange.swift in Sources */,
 				2AD752D525481246004A5F13 /* DataController.swift in Sources */,
 				2AD752CB2548101D004A5F13 /* Main.xcdatamodeld in Sources */,
 				2AD752CE254810D4004A5F13 /* Project.swift in Sources */,
